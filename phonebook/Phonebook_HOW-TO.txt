@@ -22,6 +22,9 @@ sudo chown asterisk:asterisk /var/www/html/phonebook/
 
 3.
 once you have the files copied and permissions updated test to make sure you can access the index.php from your computer.
+this page will allow you to add and remove contacts from your directory
+i have also added the ability to sort by either name or number it is your choice.
+
 http://<FreePBX Address>/phonebook/index.php
 
 4.
@@ -98,6 +101,7 @@ Testing
 
 From any computer:
 http://<FreePBX Address>/phonebook/cisco-directory.php
+
 
 
 Enjoy!!!
